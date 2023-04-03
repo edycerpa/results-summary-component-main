@@ -1,11 +1,4 @@
 
-@font-face {
-  font-family: Hanken Grotesk;
-  font-display: swap;
-  font-weight: 500 800;
-  src: url(/assets/fonts/HankenGrotesk-VariableFont_wght.ttf)
-  format('truetype');
-}
 :root{
   /* COLORS */
   /* Primary */
@@ -35,7 +28,7 @@ html{
 body{
   display: grid;
   place-items: center;
-  font-family: Hanken Grotesk;
+  font-family: 'Hanken Grotesk', sans-serif;
   font-size: 1.8rem;
   box-sizing: border-box;
   margin: 0;
