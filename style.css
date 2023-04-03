@@ -169,10 +169,10 @@ button:hover, button:focus-visible{
   background-color: #2A3039;
   color: hsl(var(--white));
   padding: 1rem;
-  font-size: 1.8rem;
+  font-size: 1.6rem !important;
 }
 .attribution a, .attribution a:visited{
-  font-size: 1.8rem;
+  font-size: 1.6rem !important;
   color: #FF931E;
 }
 
