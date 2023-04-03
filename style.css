@@ -164,6 +164,7 @@ button:hover, button:focus-visible{
 .attribution{
   font-family: 'Hanken Grotesk', sans-serif;
   position: fixed;
+  display: block;
   inset: auto 0 0 0;
   background-color: #2A3039;
   color: hsl(var(--white));
@@ -171,6 +172,7 @@ button:hover, button:focus-visible{
   font-size: 1.8rem;
 }
 .attribution a, .attribution a:visited{
+  font-size: 1.8rem;
   color: #FF931E;
 }
 
